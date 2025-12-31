@@ -3,6 +3,9 @@
 ## Description
 This program converts numbers from 0 to 999 into their English word representation.
 
+## Why This Project?
+This project was my entry point into Python programming. I chose it to solve a simple but logic-based problem, which helped me understand how to break down problems and convert numerical input into meaningful output.
+
 The goal of the project is to practice logical thinking, dictionaries, and conditional
 statements using a clear and step-by-step approach.
 
@@ -23,3 +26,4 @@ statements using a clear and step-by-step approach.
 - Functions
 - String handling
 - Conditional logic
+
