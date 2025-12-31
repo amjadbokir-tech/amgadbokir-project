@@ -1,11 +1,10 @@
-# Programming Portfolio
+ # Programming Portfolio
 
-This repository contains a collection of small programming projects that represent my
-learning journey in programming, system fundamentals, and problem-solving.
+This repository contains a collection of small programming projects created to practice
+core programming concepts, system fundamentals, and logical problem-solving.
 
-Each project was built to solve a real or practical problem and to strengthen my
-understanding of how software and systems work, with a strong interest in cybersecurity
-and IT.
+Each project focuses on a specific concept or practical task, with detailed explanations
+provided in its own dedicated README file.
 
 ---
 
@@ -17,32 +16,49 @@ and IT.
 
 ---
 
-## Projects Overview
+## Projects by Programming Language
 
-### Python
-- **Number to Words Converter**  
-  My first Python project and the starting point of my programming journey.
+###   Python Projects
 
-- **Student Meal Payment System**  
-  A real-life inspired system that simulates student meal payments using OOP.
-
-- **Password Generator**  
-  Generates secure passwords based on user-selected difficulty levels.
+#### Number to Words Converter
+Converts numbers (0–999) into English words using dictionaries and conditional logic.  
+ `number-to-words/`
 
 ---
 
-### Bash
-- **Network Scanner**  
-  My first Bash project, focused on automating basic network scanning tasks.
-
-- **File Organizer by Extension**  
-  Organizes files in Linux environments to solve file clutter problems.
+#### Student Meal Payment System
+A simple system that manages student balances and meal payments using object-oriented
+programming.  
+ `student-meal-system/`
 
 ---
 
-### C++
-- **Prisoner 207 – Decision Game**  
-  A text-based game and my first project in C++, focused on logic and decision-making.
+#### Password Generator
+Generates random passwords based on user-selected difficulty levels.  
+ `password-generator/`
+
+---
+
+###  Bash Projects
+
+#### Network Scanner
+Automates basic network scanning tasks using common Linux networking tools and saves the
+results to a text file.  
+ `network-scanner/`
+
+---
+
+#### File Organizer by Extension
+Organizes files in a Linux directory by sorting them into folders based on file extensions.  
+ `file-organizer/`
+
+---
+
+###  C++ Projects
+
+#### Prisoner 207 – Decision Game
+A text-based decision game where the player must choose the correct path to succeed.  
+ `prisoner-207-game/`
 
 ---
 
@@ -54,14 +70,6 @@ and IT.
 
 ---
 
-## What This Portfolio Shows
-- Logical thinking and problem-solving
-- Learning through real challenges
-- Experience with multiple programming languages
-- Strong interest in systems and cybersecurity
-
----
-
 ## Notes
-Each project includes its own README with detailed explanations of why the project was
-created, what I learned, and how it works.
+Each project contains its own README file with detailed explanations, usage instructions,
+and learning outcomes.
