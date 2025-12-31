@@ -1,6 +1,6 @@
 # Student Meal Payment System
 
-Why This Project?
+## Why This Project?
 This project was created to address a real problem I face in the student dormitory where I live. The existing meal payment system is inefficient and unclear, so I built a simple program to simulate a more organized and understandable solution for managing student balances and meal payments.
 
 ## Description
@@ -25,4 +25,5 @@ Each student has a balance, and meals are deducted based on selection.
 - Classes and methods
 - Basic system design
 - User input handling
+
 
