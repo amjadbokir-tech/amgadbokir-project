@@ -1,8 +1,11 @@
 # Programming Portfolio
 
-This repository contains a collection of programming projects created to
-practice core programming and system fundamentals with a focus on clarity and
-logical thinking.
+This repository contains a collection of small programming projects that represent my
+learning journey in programming, system fundamentals, and problem-solving.
+
+Each project was built to solve a real or practical problem and to strengthen my
+understanding of how software and systems work, with a strong interest in cybersecurity
+and IT.
 
 ---
 
@@ -10,53 +13,36 @@ logical thinking.
 - Cybersecurity
 - Information Technology (IT)
 - Software Engineering
-- Computer Science (CS)
+- Computer Science
 
 ---
 
-## Projects by Programming Language
+## Projects Overview
 
-###   Python Projects
+### Python
+- **Number to Words Converter**  
+  My first Python project and the starting point of my programming journey.
 
-**1. Number to Words Converter**  
-Converts numbers (0–999) into English words using dictionaries and simple logic.
+- **Student Meal Payment System**  
+  A real-life inspired system that simulates student meal payments using OOP.
 
-  `number-to-words/`
-
-**2. Student Meal Payment System**  
-Manages student balances and meal payments using basic object-oriented programming.
-
-  `student-meal-system/`
-
-**3. Password Generator**  
-Generates passwords based on user-selected difficulty levels.
-
-  `password-generator/`
+- **Password Generator**  
+  Generates secure passwords based on user-selected difficulty levels.
 
 ---
 
-###   Bash Projects
+### Bash
+- **Network Scanner**  
+  My first Bash project, focused on automating basic network scanning tasks.
 
-**4. Network Scanner**  
-Performs a basic network scan using Linux networking tools and saves results to a text file.
-
-Tools used: ping, nslookup, traceroute, curl, nmap
-
-  `network-scanner/`
-
-**5. File Organizer by Extension**  
-Organizes files in the home directory based on file extensions.
-
-  `file-organizer/`
+- **File Organizer by Extension**  
+  Organizes files in Linux environments to solve file clutter problems.
 
 ---
 
-###   C++ Projects
-
-**6. Prisoner 207 – Decision Game**  
-A simple text-based decision game with one correct path and multiple failure paths.
-
-  `prisoner-207-game/`
+### C++
+- **Prisoner 207 – Decision Game**  
+  A text-based game and my first project in C++, focused on logic and decision-making.
 
 ---
 
@@ -68,5 +54,14 @@ A simple text-based decision game with one correct path and multiple failure pat
 
 ---
 
+## What This Portfolio Shows
+- Logical thinking and problem-solving
+- Learning through real challenges
+- Experience with multiple programming languages
+- Strong interest in systems and cybersecurity
+
+---
+
 ## Notes
-Each project includes a dedicated README file with usage instructions and explanations.
+Each project includes its own README with detailed explanations of why the project was
+created, what I learned, and how it works.
