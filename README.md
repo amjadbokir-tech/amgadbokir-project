@@ -1,6 +1,6 @@
  # Programming Portfolio
 
-This repository contains a collection of small programming projects created to practice
+This repository contains a collection of programming projects created to practice
 core programming concepts, system fundamentals, and logical problem-solving.
 
 Each project focuses on a specific concept or practical task, with detailed explanations
@@ -73,3 +73,4 @@ A text-based decision game where the player must choose the correct path to succ
 ## Notes
 Each project contains its own README file with detailed explanations, usage instructions,
 and learning outcomes.
+
